@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "934VD35T3Q.com.keedamo.smartgate",
+          "934VD35T3Q.com.keedamo.smartgate.adhoc",
+          "934VD35T3Q.com.keedamo.smartgate.dev"
+        ],
+        "components": [
+          { "/": "/smartgate/invite*", "comment": "invite links" }
+        ]
+      }
+    ]
+  }
+}
