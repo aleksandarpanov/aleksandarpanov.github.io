@@ -1,26 +1,50 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.keedamo.smartgate",
-      "sha256_cert_fingerprints": ["E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"]
+      "sha256_cert_fingerprints": [
+        "E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"
+      ]
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.keedamo.smartgate.adhoc",
-      "sha256_cert_fingerprints": ["E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"]
+      "sha256_cert_fingerprints": [
+        "E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"
+      ]
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.keedamo.smartgate.dev",
-      "sha256_cert_fingerprints": ["E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"]
+      "sha256_cert_fingerprints": [
+        "E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.keedamo.smartgate.adhoc.dev",
+      "sha256_cert_fingerprints": [
+        "E9:07:18:7C:99:BB:16:4B:B4:DD:CB:C5:85:66:D7:D0:B1:98:A6:10:9A:26:A5:7D:16:52:E5:C3:1D:08:F3:4B"
+      ]
     }
   }
 ]
